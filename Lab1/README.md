@@ -30,7 +30,7 @@ This lab teaches students how to create a simple web page layout using HTML and 
     <footer>Footer</footer>
 </body>
 </html>
-```
+``` <link rel="stylesheet" href="layout.css">
 
 This file contains the structure we will style using CSS.
 
